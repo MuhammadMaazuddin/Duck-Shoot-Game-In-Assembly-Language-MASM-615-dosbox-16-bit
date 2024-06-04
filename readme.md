@@ -1,0 +1,1 @@
+mount the dosbox to the current folder and and run aab.exe command in dosbox
